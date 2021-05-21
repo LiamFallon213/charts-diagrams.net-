@@ -1,17 +1,86 @@
-<mxfile host="app.diagrams.net" modified="2021-05-21T22:36:11.631Z" agent="5.0 (Windows)" etag="RjzSHDW39lOJYkRgVCv8" version="14.6.1" type="github">
+<mxfile host="app.diagrams.net" modified="2021-05-21T22:43:58.208Z" agent="5.0 (Windows)" etag="DhOJPv-vkM_ojCsccp79" version="14.6.1" type="github">
   <diagram id="L2KV69UeRki9wGJh6bsO" name="Page-1">
-    <mxGraphModel dx="1422" dy="763" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2031" dy="2190" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="I4JmA666LSuU2cgL28gJ-3" value="Shadow Born Clan" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="1">
-          <mxGeometry x="80" y="40" width="140" height="78" as="geometry" />
+        <mxCell id="I4JmA666LSuU2cgL28gJ-15" value="Shadowborn Clan" style="swimlane;startSize=30;" vertex="1" parent="1">
+          <mxGeometry x="70" y="-30" width="320" height="370" as="geometry" />
         </mxCell>
-        <mxCell id="I4JmA666LSuU2cgL28gJ-5" value="Cult of Shadowfax" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="I4JmA666LSuU2cgL28gJ-3">
-          <mxGeometry y="26" width="140" height="26" as="geometry" />
+        <mxCell id="I4JmA666LSuU2cgL28gJ-20" value="Shadowfax" style="whiteSpace=wrap;html=1;" vertex="1" parent="I4JmA666LSuU2cgL28gJ-15">
+          <mxGeometry x="10" y="40" width="150" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="I4JmA666LSuU2cgL28gJ-6" value="Shadowfax himself" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="I4JmA666LSuU2cgL28gJ-3">
-          <mxGeometry y="52" width="140" height="26" as="geometry" />
+        <mxCell id="I4JmA666LSuU2cgL28gJ-29" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="I4JmA666LSuU2cgL28gJ-15" source="I4JmA666LSuU2cgL28gJ-16" target="I4JmA666LSuU2cgL28gJ-20">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="270" y="290" as="sourcePoint" />
+            <mxPoint x="200" y="150" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="I4JmA666LSuU2cgL28gJ-31" value="Worship" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="I4JmA666LSuU2cgL28gJ-29">
+          <mxGeometry x="-0.0771" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="I4JmA666LSuU2cgL28gJ-17" value="Rest of clan" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="I4JmA666LSuU2cgL28gJ-15">
+          <mxGeometry x="30" y="280" width="150" height="65" as="geometry" />
+        </mxCell>
+        <mxCell id="I4JmA666LSuU2cgL28gJ-32" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="I4JmA666LSuU2cgL28gJ-15" source="I4JmA666LSuU2cgL28gJ-16" target="I4JmA666LSuU2cgL28gJ-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="I4JmA666LSuU2cgL28gJ-33" value="Rules" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="I4JmA666LSuU2cgL28gJ-32">
+          <mxGeometry x="-0.1499" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="I4JmA666LSuU2cgL28gJ-16" value="Inner Cult of Shadowfax" style="whiteSpace=wrap;html=1;" vertex="1" parent="I4JmA666LSuU2cgL28gJ-15">
+          <mxGeometry x="160" y="170" width="150" height="65" as="geometry" />
+        </mxCell>
+        <mxCell id="I4JmA666LSuU2cgL28gJ-34" value="" style="endArrow=none;dashed=1;html=1;exitX=0;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="I4JmA666LSuU2cgL28gJ-15" source="I4JmA666LSuU2cgL28gJ-17" target="I4JmA666LSuU2cgL28gJ-20">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="140" y="240" as="sourcePoint" />
+            <mxPoint x="190" y="190" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="I4JmA666LSuU2cgL28gJ-35" value="Rules by proxy" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="I4JmA666LSuU2cgL28gJ-34">
+          <mxGeometry x="0.5019" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="I4JmA666LSuU2cgL28gJ-23" value="Kawana" style="swimlane;fillColor=#e51400;strokeColor=#B20000;fontColor=#ffffff;startSize=30;" vertex="1" parent="1">
+          <mxGeometry x="550" y="-70" width="670" height="370" as="geometry" />
+        </mxCell>
+        <mxCell id="I4JmA666LSuU2cgL28gJ-36" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="I4JmA666LSuU2cgL28gJ-23" source="I4JmA666LSuU2cgL28gJ-24" target="I4JmA666LSuU2cgL28gJ-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="I4JmA666LSuU2cgL28gJ-37" value="&lt;div&gt;Head of&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="I4JmA666LSuU2cgL28gJ-36">
+          <mxGeometry x="-0.3667" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="I4JmA666LSuU2cgL28gJ-41" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="I4JmA666LSuU2cgL28gJ-23" source="I4JmA666LSuU2cgL28gJ-24" target="I4JmA666LSuU2cgL28gJ-38">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="I4JmA666LSuU2cgL28gJ-42" value="&lt;div&gt;Commander&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="I4JmA666LSuU2cgL28gJ-41">
+          <mxGeometry x="-0.3234" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="I4JmA666LSuU2cgL28gJ-24" value="Emperor Kawa" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e51400;strokeColor=#B20000;fontColor=#ffffff;" vertex="1" parent="I4JmA666LSuU2cgL28gJ-23">
+          <mxGeometry x="130" y="70" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="I4JmA666LSuU2cgL28gJ-39" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="I4JmA666LSuU2cgL28gJ-23" source="I4JmA666LSuU2cgL28gJ-25" target="I4JmA666LSuU2cgL28gJ-38">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="I4JmA666LSuU2cgL28gJ-40" value="&lt;div&gt;Rules&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="I4JmA666LSuU2cgL28gJ-39">
+          <mxGeometry x="-0.4234" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="I4JmA666LSuU2cgL28gJ-25" value="Imperial Court" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e51400;strokeColor=#B20000;fontColor=#ffffff;" vertex="1" parent="I4JmA666LSuU2cgL28gJ-23">
+          <mxGeometry x="135" y="190" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="I4JmA666LSuU2cgL28gJ-38" value="Imperial Army" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e51400;strokeColor=#B20000;fontColor=#ffffff;" vertex="1" parent="I4JmA666LSuU2cgL28gJ-23">
+          <mxGeometry x="320" y="290" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
