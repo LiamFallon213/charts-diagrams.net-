@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-05-21T22:43:58.208Z" agent="5.0 (Windows)" etag="DhOJPv-vkM_ojCsccp79" version="14.6.1" type="github">
+<mxfile host="app.diagrams.net" modified="2021-05-21T22:45:58.239Z" agent="5.0 (Windows)" etag="DZ0dfnf10YesXsVDqmhy" version="14.6.1" type="github">
   <diagram id="L2KV69UeRki9wGJh6bsO" name="Page-1">
-    <mxGraphModel dx="2031" dy="2190" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1673" dy="1998" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -47,7 +47,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="I4JmA666LSuU2cgL28gJ-23" value="Kawana" style="swimlane;fillColor=#e51400;strokeColor=#B20000;fontColor=#ffffff;startSize=30;" vertex="1" parent="1">
-          <mxGeometry x="550" y="-70" width="670" height="370" as="geometry" />
+          <mxGeometry x="510" width="610" height="380" as="geometry" />
         </mxCell>
         <mxCell id="I4JmA666LSuU2cgL28gJ-36" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="I4JmA666LSuU2cgL28gJ-23" source="I4JmA666LSuU2cgL28gJ-24" target="I4JmA666LSuU2cgL28gJ-25">
           <mxGeometry relative="1" as="geometry" />
@@ -77,10 +77,25 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="I4JmA666LSuU2cgL28gJ-25" value="Imperial Court" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e51400;strokeColor=#B20000;fontColor=#ffffff;" vertex="1" parent="I4JmA666LSuU2cgL28gJ-23">
-          <mxGeometry x="135" y="190" width="140" height="60" as="geometry" />
+          <mxGeometry x="135" y="200" width="140" height="60" as="geometry" />
         </mxCell>
         <mxCell id="I4JmA666LSuU2cgL28gJ-38" value="Imperial Army" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e51400;strokeColor=#B20000;fontColor=#ffffff;" vertex="1" parent="I4JmA666LSuU2cgL28gJ-23">
-          <mxGeometry x="320" y="290" width="120" height="60" as="geometry" />
+          <mxGeometry x="350" y="270" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="I4JmA666LSuU2cgL28gJ-46" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0;entryDx=0;entryDy=0;startArrow=none;" edge="1" parent="I4JmA666LSuU2cgL28gJ-23" source="I4JmA666LSuU2cgL28gJ-47" target="I4JmA666LSuU2cgL28gJ-38">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="I4JmA666LSuU2cgL28gJ-45" value="&lt;div&gt;Sun General &lt;br&gt;&lt;/div&gt;&lt;div&gt;Hiro Takeyami&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e51400;strokeColor=#B20000;fontColor=#ffffff;" vertex="1" parent="I4JmA666LSuU2cgL28gJ-23">
+          <mxGeometry x="470" y="130" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="I4JmA666LSuU2cgL28gJ-47" value="&lt;div&gt;Head General&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="I4JmA666LSuU2cgL28gJ-23">
+          <mxGeometry x="460" y="210" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="I4JmA666LSuU2cgL28gJ-48" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.629;entryY=0.062;entryDx=0;entryDy=0;endArrow=none;entryPerimeter=0;" edge="1" parent="I4JmA666LSuU2cgL28gJ-23" source="I4JmA666LSuU2cgL28gJ-45" target="I4JmA666LSuU2cgL28gJ-47">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1040" y="190" as="sourcePoint" />
+            <mxPoint x="980" y="270" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
