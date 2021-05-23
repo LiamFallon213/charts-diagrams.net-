@@ -1,11 +1,11 @@
-<mxfile host="app.diagrams.net" modified="2021-05-23T18:19:40.553Z" agent="5.0 (Windows)" etag="jpgiO2XtkDLnZma4x0Uo" version="14.7.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-05-23T18:22:43.823Z" agent="5.0 (Windows)" etag="mwT21AN4SscyP9akTFw3" version="14.7.0" type="github">
   <diagram id="L2KV69UeRki9wGJh6bsO" name="Page-1">
     <mxGraphModel dx="1422" dy="763" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="I4JmA666LSuU2cgL28gJ-15" value="Shadowborn Clan" style="swimlane;startSize=30;" parent="1" vertex="1">
-          <mxGeometry width="320" height="370" as="geometry" />
+          <mxGeometry x="40" y="40" width="320" height="370" as="geometry" />
         </mxCell>
         <mxCell id="I4JmA666LSuU2cgL28gJ-20" value="Shadowfax" style="whiteSpace=wrap;html=1;" parent="I4JmA666LSuU2cgL28gJ-15" vertex="1">
           <mxGeometry x="10" y="40" width="150" height="60" as="geometry" />
@@ -47,7 +47,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="I4JmA666LSuU2cgL28gJ-23" value="Kawana" style="swimlane;fillColor=#e51400;strokeColor=#B20000;fontColor=#ffffff;startSize=30;" parent="1" vertex="1">
-          <mxGeometry x="850" width="610" height="460" as="geometry" />
+          <mxGeometry x="850" y="40" width="610" height="460" as="geometry" />
         </mxCell>
         <mxCell id="I4JmA666LSuU2cgL28gJ-36" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="I4JmA666LSuU2cgL28gJ-23" source="I4JmA666LSuU2cgL28gJ-24" target="I4JmA666LSuU2cgL28gJ-25" edge="1">
           <mxGeometry relative="1" as="geometry" />
